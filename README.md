@@ -11,6 +11,10 @@ https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases
 
 原
 
-https://github.com/GC-Ruth/Genshin-Impact-Point_Switch
+https://github.com/GC-Ruth/Genshin-Impact-Point_Switch 空白工具
+https://github.com/gmh5225/Genshin-Akebi-GC/blob/master/README_zh-Hant.md AKB
+https://github.com/linzhibinghan/teleports TP点位
+https://github.com/linzhibinghan/Genshin_Impact_Teleport TP点位
+https://github.com/Xcating/Json_Integration 茶亭
 
 
