@@ -9,12 +9,12 @@ https://github.com/BoyceLig/Clash_Chinese_Patch/releases
 https://github.com/Qv2ray/Qv2ray/releases
 https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases
 
-原
+TP文件来源（还有主页我F的几个）
 
 https://github.com/GC-Ruth/Genshin-Impact-Point_Switch 空白工具
-https://github.com/gmh5225/Genshin-Akebi-GC/blob/master/README_zh-Hant.md AKB
-https://github.com/linzhibinghan/teleports TP点位
-https://github.com/linzhibinghan/Genshin_Impact_Teleport TP点位
+https://github.com/gmh5225/Genshin-Akebi-GC/blob/master/README_zh-Hant.md AK
 https://github.com/Xcating/Json_Integration 茶亭
+
+慢慢整理中
 
 
