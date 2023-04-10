@@ -22,8 +22,8 @@ https://github.com/Sam5440/Genshin_Impact_Teleport SAM5440
 https://github.com/GC-Ruth/Genshin-Impact-Point_Switch 空白的切换点位工具
 
 
+持续整理中 AB线轮流不包含绯樱绣球 渊下宫好像有点问题
 
 
-持续整理中
 
 
