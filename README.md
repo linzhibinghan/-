@@ -1,19 +1,16 @@
------- 原神相关
+个人整理的TP文件备份
 
-https://github.com/GengGode/GenshinImpact_TianLi 天理私服
+部分文件来源（还有部分来自辅助群,持青伞群以及DIS频道）
 
-TP文件来源（还有部分来自群里）
-
-https://github.com/gmh5225/Genshin-Akebi-GC AK
 https://github.com/Xcating/Json_Integration 茶亭
 https://github.com/jqtmviyu/teleports FARM 日常锄地整合
 https://github.com/Sam5440/Genshin_Impact_Teleport SAM5440
 https://github.com/GC-Ruth/Genshin-Impact-Point_Switch 空白的切换点位工具
 https://github.com/chiqingsan/Teyvat_TP_Json 持青伞
 
-自用TP 简略说明
+自用Farm TP 简略说明
 
-更改为4天1循环 尽量减少每日时间 重新整理
+更改为4天1循环 尽量减少每日时间 搭配伞的三天正好一周
 
 白萝卜，胡萝卜，海草，堇瓜，莲蓬，蘑菇，鸟蛋，日落果，松果，松茸，星蕈，须弥蔷薇 ，马尾，竹笋，枣椰，每日5个点位 A C
 
@@ -27,6 +24,12 @@ https://github.com/chiqingsan/Teyvat_TP_Json 持青伞
 
 GW
 
-3.6 丘丘游侠 QQYX 圣骸兽 SHS15 黑蛇骑士
+手动补全了 3.6 丘丘游侠 QQYX 圣骸兽 SHS15 黑蛇骑士
 
-手动补入一些探索点位..自用可,勿外传..因茶亭新版本默认了大范围,可能后续备份个老版本的小范围材料收集点位...
+手动补入一些探索点位.. 如源下宫
+
+茶亭新版本默认了大范拾取范围,可能后续备份个老版本的小范围材料收集点位...
+
+本人手录点位一般范围为10M左右...
+
+有缘看到可下载自用,但请勿外传...
