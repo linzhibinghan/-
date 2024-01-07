@@ -7,6 +7,10 @@ https://github.com/jqtmviyu/teleports FARM 日常锄地整合
 https://github.com/Sam5440/Genshin_Impact_Teleport SAM5440
 https://github.com/GC-Ruth/Genshin-Impact-Point_Switch 空白的切换点位工具
 https://github.com/chiqingsan/Teyvat_TP_Json 持青伞
+https://github.com/I-wish-dsq/SFX-Format-JSON-files-RU-Private
+https://discord.com/channels/1069057220802781265/1160533407344885781/1160533407344885781
+
+增加2个点位来源
 
 自用Farm TP 简略说明
 
